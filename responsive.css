@@ -1,0 +1,679 @@
+@media only screen and (max-width: 970px){
+    .owner-name {
+        margin-left: 42%;
+        margin-top: 30px;
+    }
+    .desktp-device img {
+        width: 517px;
+    }
+    .desktp-device {
+        position: absolute;
+        top: 16%;
+        right: -50%;
+    }
+}
+@media only screen and (max-width: 834px){
+    .custom-container{
+        width: 90%;
+    }
+    .desktp-device {
+        position: absolute;
+        top: 116px;
+        right: -430px;
+    }
+    .desktp-device img {
+        width: 430px;
+    }
+    .header-title h3 {
+        font-size: 24px;
+        line-height: 36px;
+    }
+    .header-title p {
+        font-size: 13px;
+        line-height: 26px;
+        
+    }
+    .header-btn a {
+        padding: 10px 25px;
+        margin-left: 10%;
+        font-size: 15px;
+    }
+    .group-icon img {
+        width: 88px;
+    }
+    .group-icon {
+        right: 21px;
+        bottom: 49px;
+    }
+    .header-btn span {
+        padding-left: 13%;
+        font-size: 12px;
+    }
+    .header-title {
+        padding-top: 15px;
+    }
+
+    .single-gv:nth-child(1) {
+        left: 21px;
+        bottom: -198px;
+    }
+    .single-gv {
+        width: 161px;
+        padding: 5px 10px;
+        left: 46px;
+        bottom: -272px;
+    }
+    .gv-l h6 {
+        font-size: 11px;
+    }
+    .gv-l span {
+        font-size: 13px;
+    }
+    .gv-r img {
+        width: 28px;
+    }
+    .owner-name {
+        margin-left: 39%;
+        margin-top: 30px;
+    }
+    .owner-name p, .owner-name span {
+        font-size: 13px;
+    }
+    .single-process ul {
+        padding: 20px 0 0 20%;
+    }
+    .single-process ul::after {
+        height: 4px;
+        top: 34px;
+        left: 72px;
+    }
+    .single-process p {
+        font-size: 12px;
+        line-height: 22px;
+        color: #23262E;
+        padding: 0px 17px;
+    }
+    .single-process h5 {
+        font-size: 14px;
+        line-height: 14px;
+    }
+    .custom-container {
+        width: 90%;
+        margin: auto;
+    }
+    .group-icon {
+        position: absolute;
+        right: 8px;
+        bottom: 74px;
+    }
+    .group-icon img {
+        width: 70px;
+    }
+}
+@media only screen and (max-width: 767px){
+    .header-title {
+        padding-top: 15px;
+        width: 56%;
+    }
+    .group-icon {
+        position: absolute;
+        right: 55%;
+        bottom: 60px;
+    }
+    .header-btn a {
+        padding: 10px 25px;
+        margin-left: 3%;
+        font-size: 15px;
+    }
+    .header-btn span {
+        padding-left: 5%;
+        font-size: 12px;
+    }
+    .single-gv:nth-child(1) {
+        left: 57%;
+        bottom: 58px;
+    }
+    .single-gv {
+        width: 161px;
+        padding: 5px 10px;
+        left: 54%;
+        bottom: -31px;
+    }
+}
+@media only screen and (max-width: 755px){
+ 
+    .group-icon {
+        position: absolute;
+        right: 58%;
+        bottom: 72px;
+    }
+}
+@media only screen and (max-width: 665px){
+    .group-icon {
+        position: absolute;
+        right: 55%;
+        bottom: 71px;
+    }
+    .desktp-device {
+        position: absolute;
+        top: 116px;
+        right: -351px;
+    }
+    .single-process ul::after {
+        height: 4px;
+        top: 63%;
+        left: 60%;
+    }
+}
+@media only screen and (max-width: 560px){
+    .single-process ul::after {
+        height: 4px;
+        top: 63%;
+        left: 60%;
+    }
+    .single-process ul {
+        padding: 20px 0 0 9%;
+    }
+    .desktp-device {
+        position: absolute;
+        top: 228px;
+        right: -298px;
+    }
+}
+@media only screen and (max-width: 620px){
+    .desktp-device {
+        position: absolute;
+        top: 150px;
+        right: -321px;
+    }
+}
+@media only screen and (max-width: 550px){
+    .desktp-device img {
+        width: 373px;
+    }
+    .desktp-device {
+        position: absolute;
+        top: 218px;
+        right: -295px;
+    }
+}
+@media only screen and (max-width: 490px){
+    .group-icon {
+        position: absolute;
+        right: 44%;
+        bottom: 71px;
+    }
+    .desktp-device img {
+        width: 300px;
+    }
+    .desktp-device {
+        position: absolute;
+        top: 325px;
+        right: -279px;
+    }
+}
+@media only screen and (max-width: 414px){
+    .header-area {
+        padding: 0 0 20px 0;
+    }
+    .group-icon {
+        display: none;
+    }
+    .header-btn {
+        display: none;
+    }
+    .header-title p {
+        font-size: 16px;
+        line-height: 26px;
+    }
+  
+   
+    .desktp-device img {
+        width: 450px;
+    }
+    .desktp-device {
+        position: absolute;
+        top: 303px;
+        right: -142px;
+    }
+
+    .single-gv {
+        left: 0;
+        bottom: -83px;
+    }
+    .single-gv:nth-child(1) {
+        left: 42px;
+        bottom: -166px;
+    }
+    .owner-name {
+        margin-left: 4px;
+        margin-top: 271px;
+    }
+
+
+
+
+
+
+
+    .single-process {
+        width: 100%;
+        padding: 10px 7px;
+    }
+    .single-process h5 {
+        font-size: 16px;
+    }
+    .single-process p {
+        font-size: 14px;
+        padding: 0px 62px;
+    }
+    .single-process ul::after {
+        display: none;
+    }
+
+    .single-process ul {
+        padding: 20px 0 0 34.5%;
+    }
+
+    .single-process ul li {
+        height: 36px;
+        width: 36px;
+        line-height: 30px;
+        border: 3px solid #fff;
+    }
+
+    .process-area {
+        padding: 20px 0;
+        position: relative;
+    }
+
+    .process-bg {
+        display: block;
+        position: absolute;
+        top: 103px;
+        left: -5px;
+    }
+    .process-bg img {
+        width: 106%;
+    }
+    .process-container{
+        width: 100% !important;
+    }
+    .case-study-card img{
+    
+        text-align: center;
+        margin: 0 auto;
+    }
+    .case-study-card h6{
+    
+        font-size: 14px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 18px;
+        letter-spacing: 0em;
+        text-align: center;
+    
+    }
+    .case-study-card p{
+    
+        font-size: 12px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 16px;
+        letter-spacing: -0.04em;
+        text-align: center;
+    
+    }
+    .case-study-card {
+        text-align: center;
+    }
+    .trusted-img img {
+        width: 57%;
+    }  
+    .Supercharge-text {
+        text-align: center;
+       width: auto;
+        margin: 0 auto;
+    }
+    .arrow-img img {
+        position: absolute;
+        top: -147px;
+        width: 54px;
+        left: 78%;
+        transform: rotate(-53deg);
+    }
+    .button-end {
+        text-align: center;
+        margin-bottom: 25px;
+    }
+    .header-area {
+        padding: 0 0 20px 0;
+    }
+    .group-icon {
+        display: none;
+    }
+    .header-btn {
+        display: none;
+    }
+    .header-title p {
+        font-size: 16px;
+        line-height: 26px;
+    }
+  
+   
+    .desktp-device img {
+        width: 450px;
+    }
+    .desktp-device {
+        position: absolute;
+        top: 303px;
+        right: -142px;
+    }
+
+    .single-gv {
+        left: 0;
+        bottom: -83px;
+    }
+    .single-gv:nth-child(1) {
+        left: 42px;
+        bottom: -166px;
+    }
+    .owner-name {
+        margin-left: 4px;
+        margin-top: 271px;
+    }
+
+
+
+
+
+
+
+    .single-process {
+        width: 100%;
+    }
+    .single-process h5 {
+        font-size: 16px;
+    }
+    .single-process p {
+        font-size: 14px;
+        padding: 0px 62px;
+    }
+    .single-process ul::after {
+        display: none;
+    }
+
+    .single-process ul {
+        padding: 20px 0 0 34.5%;
+    }
+
+    .single-process ul li {
+        height: 36px;
+        width: 36px;
+        line-height: 30px;
+        border: 3px solid #fff;
+    }
+
+    .process-area {
+        padding: 20px 0;
+        position: relative;
+    }
+
+    .process-bg {
+        display: block;
+        position: absolute;
+        top: 103px;
+        left: -5px;
+    }
+    .process-bg img{
+        width: 100%;
+    }
+    .process-container{
+        width: 100% !important;
+    }
+    .single-process ul li:nth-child(2) {
+        height: 36px;
+        width: 36px;
+        line-height: 30px;
+        border: 3px solid #fff;
+        margin-top: 20px;
+    }
+    .single-process ul li {
+        height: 36px;
+        width: 36px;
+        line-height: 30px;
+        border: 3px solid #fff;
+        margin-top: 10px;
+    }
+    
+}
+@media only screen and (max-width: 370px){
+    .single-process ul li {
+        height: 36px;
+        width: 36px;
+        line-height: 30px;
+        border: 3px solid #fff;
+        margin-top: 0px;
+    }
+}
+@media only screen and (max-width: 375px){
+    .header-area {
+        padding: 0 0 20px 0;
+    }
+    .group-icon {
+        display: none;
+    }
+    .header-btn {
+        display: none;
+    }
+    .header-title p {
+        font-size: 16px;
+        line-height: 26px;
+    }
+  
+   
+    .desktp-device img {
+        width: 450px;
+    }
+    .desktp-device {
+        position: absolute;
+        top: 303px;
+        right: -142px;
+    }
+
+    .single-gv {
+        left: 0;
+        bottom: -83px;
+    }
+    .single-gv:nth-child(1) {
+        left: 42px;
+        bottom: -166px;
+    }
+    .owner-name {
+        margin-left: 4px;
+        margin-top: 271px;
+    }
+
+
+
+
+
+
+
+    .single-process {
+        width: 100%;
+        padding: 10px 7px;
+    }
+    .single-process h5 {
+        font-size: 16px;
+    }
+    .single-process p {
+        font-size: 14px;
+        padding: 0px 62px;
+    }
+    .single-process ul::after {
+        display: none;
+    }
+
+    .single-process ul {
+        padding: 20px 0 0 34.5%;
+    }
+
+    .single-process ul li {
+        height: 36px;
+        width: 36px;
+        line-height: 30px;
+        border: 3px solid #fff;
+    }
+
+    .process-area {
+        padding: 20px 0;
+        position: relative;
+    }
+
+    .process-bg {
+        display: block;
+        position: absolute;
+        top: 103px;
+        left: -5px;
+    }
+    .process-bg img{
+        width: 100%;
+    }
+    .process-container{
+        width: 100% !important;
+    }
+    .case-study-card img{
+    
+        text-align: center;
+        margin: 0 auto;
+    }
+    .case-study-card h6{
+    
+        font-size: 14px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 18px;
+        letter-spacing: 0em;
+        text-align: center;
+    
+    }
+    .case-study-card p{
+    
+        font-size: 12px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 16px;
+        letter-spacing: -0.04em;
+        text-align: center;
+    
+    }
+    .case-study-card {
+        text-align: center;
+    }
+    .trusted-img img {
+        width: 57%;
+    }  
+    .Supercharge-text {
+        text-align: center;
+       width: auto;
+        margin: 0 auto;
+    }
+    .arrow-img img {
+        position: absolute;
+        top: -147px;
+        width: 75px;
+        left: 78%;
+        transform: rotate(-53deg);
+    }
+    .button-end {
+        text-align: center;
+        margin-bottom: 25px;
+    }
+    .header-area {
+        padding: 0 0 20px 0;
+    }
+    .group-icon {
+        display: none;
+    }
+    .header-btn {
+        display: none;
+    }
+    .header-title p {
+        font-size: 16px;
+        line-height: 26px;
+    }
+  
+   
+    .desktp-device img {
+        width: 450px;
+    }
+    .desktp-device {
+        position: absolute;
+        top: 303px;
+        right: -142px;
+    }
+
+    .single-gv {
+        left: 0;
+        bottom: -83px;
+    }
+    .single-gv:nth-child(1) {
+        left: 42px;
+        bottom: -166px;
+    }
+    .owner-name {
+        margin-left: 4px;
+        margin-top: 271px;
+    }
+
+
+
+
+
+
+
+    .single-process {
+        width: 100%;
+    }
+    .single-process h5 {
+        font-size: 16px;
+    }
+    .single-process p {
+        font-size: 14px;
+        padding: 0px 62px;
+    }
+    .single-process ul::after {
+        display: none;
+    }
+
+    .single-process ul {
+        padding: 20px 0 0 34.5%;
+    }
+
+    .single-process ul li {
+        height: 36px;
+        width: 36px;
+        line-height: 30px;
+        border: 3px solid #fff;
+    }
+
+    .process-area {
+        padding: 20px 0;
+        position: relative;
+    }
+
+    .process-bg {
+        display: block;
+        position: absolute;
+        top: 103px;
+        left: -5px;
+    }
+    .process-bg img{
+        width: 100%;
+    }
+    .process-container{
+        width: 100% !important;
+    }
+    
+}
